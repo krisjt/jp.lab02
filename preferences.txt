@@ -1,0 +1,10 @@
+1,C,159:slalom
+2,C,165:race
+3,A,156:slalom
+4,A,177:race
+5,C,170:carving
+6,J,179:carving
+7,A,176:slalom
+8,J,174:carving
+9,J,154:race
+10,C,158:carving

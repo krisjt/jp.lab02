@@ -1,0 +1,5 @@
+9,slalom:171
+5,slalom:154
+5,race:155
+3,carving:165
+8,carving:155
